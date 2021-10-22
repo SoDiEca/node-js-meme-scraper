@@ -1,7 +1,8 @@
 {
   "name": "node-js-meme-scraper",
   "version": "1.0.0",
-  "main": "index.mjs",
+  "main": "index.js",
+  "type": "module",
   "repository": "https://github.com/SoDiEca/node-js-meme-scraper.git",
   "author": "voinuecaterina´@gmail.com <voinuecaterina@gmail.com>",
   "license": "MIT",
@@ -11,6 +12,7 @@
     "@types/node": "16.0.0",
     "@types/react": "17.0.6",
     "@types/react-dom": "17.0.5",
+    "@types/request": "^2.48.7",
     "@typescript-eslint/eslint-plugin": "4.21.0",
     "@typescript-eslint/parser": "4.21.0",
     "@upleveled/eslint-config-upleveled": "1.18.0",
