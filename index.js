@@ -3,11 +3,6 @@ import cheerio from 'cheerio';
 import fetch from 'node-fetch';
 import request from 'request';
 
-// import fetch from 'node-fetch';
-// const fs = require('node:fs');
-// const cheerio = require('cheerio');
-// const request = require('request');
-
 request(
   'https://memegen-link-examples-upleveled.netlify.app/',
   (error, response, body) => {
