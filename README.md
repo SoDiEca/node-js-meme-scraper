@@ -4,4 +4,4 @@ Only the first 10 images are downloaded and saved into an 'ignored' on GitHub fi
 
 The website can be found at : memegen-link-examples-upleveled.netlify.app
 
-The given application was built during the Web Dev Bootcamp at Upleveled Institute in Vienna .
+The given application was built during the Web Development Bootcamp at UpLeveled Institute in Vienna .
