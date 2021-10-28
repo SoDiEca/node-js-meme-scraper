@@ -1,4 +1,4 @@
-# Application scraping for images in Node.js
+# Application for scraping images in Node.js
 
 Only the first 10 images are downloaded and saved into an 'ignored' on GitHub file.
 
